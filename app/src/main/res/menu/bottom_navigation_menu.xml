@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/feature_a"
+        android:enabled="true"
+        android:title="Feature A" />
+    <item
+        android:id="@+id/feature_b"
+        android:enabled="true"
+        android:title="Feature B" />
+</menu>
