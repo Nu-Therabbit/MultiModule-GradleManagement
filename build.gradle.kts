@@ -4,8 +4,4 @@ buildscript {
         google()
         mavenCentral()
     }
-    dependencies {
-        classpath(Dependencies.kotlinGradlePlugin)
-        classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:1.8.10")
-    }
 }
